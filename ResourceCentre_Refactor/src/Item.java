@@ -9,7 +9,6 @@ public class Item {
 		this.assetTag = assetTag;
 		this.description = description;
 		this.dueDate = "";
-		
 		this.isAvailable = true;
 	}
 	public String toString() {
